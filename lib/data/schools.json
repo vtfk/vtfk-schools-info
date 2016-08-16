@@ -1,5 +1,50 @@
 [
   {
+    "organizationNumber": "974568179",
+    "name": "Bamble vgs. avd. Croftholmen",
+    "fullName": "Bamble videregående skole, avdeling Croftholmen",
+    "shortName": "CROVS",
+    "officialName": "Bamble videregående skole",
+    "accessGroup": "Elev-Bamble",
+    "phoneNumber": "35 91 94 00",
+    "mail": "bamble.vgs@t-fk.no",
+    "address": "Tostrupsvei 7, 3960 Stathelle",
+    "geocoded": {
+      "lat": "59.04435",
+      "lon": "9.70618"
+    }
+  },
+  {
+    "organizationNumber": "974568098",
+    "name": "Bamble vgs. avd. Grasmyr",
+    "fullName": "Bamble videregående skole, avdeling Grasmyr",
+    "shortName": "BAMVS",
+    "officialName": "Bamble videregående skole",
+    "accessGroup": "Elev-Bamble",
+    "phoneNumber": "35 91 94 00",
+    "mail": "bamble.vgs@t-fk.no",
+    "address": "Tønderveien 6, 3960 Stathelle",
+    "geocoded": {
+      "lat": "59.02786",
+      "lon": "9.70322"
+    }
+  },
+  {
+    "organizationNumber": "974567997",
+    "name": "Bø vgs",
+    "fullName": "Bø vidaregåande skule",
+    "shortName": "BOEVS",
+    "officialName": "Bø vidaregåande skule",
+    "accessGroup": "Elev-Bø",
+    "phoneNumber": "35 91 90 00",
+    "mail": "bo.vgs@t-fk.no",
+    "address": "Gymnasbakken 23, 3802 Bø",
+    "geocoded": {
+      "lat": "59.41723",
+      "lon": "9.06292"
+    }
+  },
+  {
     "organizationNumber":"874568082",
     "name": "Rjukan vgs",
     "fullName": "Rjukan videregående skole",
@@ -7,7 +52,12 @@
     "officialName": "Rjukan videregående skole",
     "accessGroup": "Elev-Rjukan",
     "phoneNumber": "35 91 99 00",
-    "mail": "rjukan.vgs@t-fk.no"
+    "mail": "rjukan.vgs@t-fk.no",
+    "address": "Såheimveien 22, 3660 Rjukan",
+    "geocoded": {
+      "lat": "59.87821",
+      "lon": "8.58058"
+    }
   },
   {
     "organizationNumber":"874568112",
@@ -20,16 +70,6 @@
     "mail": ""
   },
   {
-    "organizationNumber": "974567997",
-    "name": "Bø vgs",
-    "fullName": "Bø vidaregåande skule",
-    "shortName": "BOEVS",
-    "officialName": "Bø vidaregåande skule",
-    "accessGroup": "Elev-Bø",
-    "phoneNumber": "35 91 90 00",
-    "mail": "bo.vgs@t-fk.no"
-  },
-  {
     "organizationNumber": "974568004",
     "name": "Kragerø vgs",
     "fullName": "Kragerø videregående skole",
@@ -37,7 +77,12 @@
     "officialName": "Kragerø videregående skole",
     "accessGroup": "Elev-Kragerø",
     "phoneNumber": "35 91 95 00",
-    "mail": "kragero.vgs@t-fk.no"
+    "mail": "kragero.vgs@t-fk.no",
+    "address": "Frydensborgveien 9-11, 3770 Kragerø",
+    "geocoded": {
+      "lat": "58.87151",
+      "lon": "9.39249"
+    }
   },
   {
     "organizationNumber":"974568012",
@@ -47,7 +92,12 @@
     "officialName": "Notodden videregående skole",
     "accessGroup": "Elev-Notodden",
     "phoneNumber": "35 91 85 00",
-    "mail": "notodden.vgs@t-fk.no"
+    "mail": "notodden.vgs@t-fk.no",
+    "address": "Heddalsveien 4, 3674 Notodden",
+    "geocoded": {
+      "lat": "59.55564",
+      "lon": "9.25747"
+    }
   },
   {
     "organizationNumber": "974568020",
@@ -77,7 +127,27 @@
     "officialName": "Vest-Telemark vidaregåande skule",
     "accessGroup": "Elev-Vest-Telemark",
     "phoneNumber": "35 91 97 00",
-    "mail": "vest-telemark.vgs@t-fk.no"
+    "mail": "vest-telemark.vgs@t-fk.no",
+    "address": "Storvegen 195, 3880 Dalen",
+    "geocoded": {
+      "lat": "59.44657",
+      "lon": "7.98785"
+    }
+  },
+  {
+    "organizationNumber": "974568128",
+    "name": "Vest-Telemark vgs. avd. Seljord",
+    "fullName": "Vest-Telemark vidaregåande skule, avdeling Seljord",
+    "shortName": "DALVS",
+    "officialName": "Vest-Telemark vidaregåande skule",
+    "accessGroup": "Elev-Vest-Telemark",
+    "phoneNumber": "35 91 90 70",
+    "mail": "vest-telemark.vgs@t-fk.no",
+    "address": "Brøløsvegen 2, 3840 Seljord",
+    "geocoded": {
+      "lat": "59.48254",
+      "lon": "8.62049"
+    }
   },
   {
     "organizationNumber": "974568063",
@@ -87,7 +157,12 @@
     "officialName": "Nome videregående skole",
     "accessGroup": "Elev-Nome",
     "phoneNumber": "35 91 88 00",
-    "mail": "nome.vgs@t-fk.no"
+    "mail": "nome.vgs@t-fk.no",
+    "address": "Olav Strannas vei 25, 3825 Lunde",
+    "geocoded": {
+      "lat": "59.30083",
+      "lon": "9.10652"
+    }
   },
   {
     "organizationNumber": "974568071",
@@ -100,16 +175,6 @@
     "mail": "hjalmarjohansen.vgs@t-fk.no"
   },
   {
-    "organizationNumber": "974568098",
-    "name": "Bamble vgs. avd. Grasmyr",
-    "fullName": "Bamble videregående skole avdeling Grasmyr",
-    "shortName": "BAMVS",
-    "officialName": "Bamble videregående skole",
-    "accessGroup": "Elev-Bamble",
-    "phoneNumber": "35 91 94 00",
-    "mail": "bamble.vgs@t-fk.no"
-  },
-  {
     "organizationNumber": "974568152",
     "name": "Skogmo vgs",
     "fullName": "Skogmo videregående skole",
@@ -117,17 +182,12 @@
     "officialName": "Skogmo videregående skole",
     "accessGroup": "Elev-Skogmo",
     "phoneNumber": "35 91 92 00",
-    "mail": "skogmo.vgs@t-fk.no"
-  },
-  {
-    "organizationNumber": "974568179",
-    "name": "Bamble vgs. avd. Croftholmen",
-    "fullName": "Bamble videregående skole avdeling Croftholmen",
-    "shortName": "CROVS",
-    "officialName": "Bamble videregående skole",
-    "accessGroup": "Elev-Bamble",
-    "phoneNumber": "35 91 94 00",
-    "mail": "bamble.vgs@t-fk.no"
+    "mail": "skogmo.vgs@t-fk.no",
+    "address": "Kjørbekkdalen 11, 3735 Skien",
+    "geocoded": {
+      "lat": "59.17301",
+      "lon": "9.62081"
+    }
   },
   {
     "organizationNumber": "974568187",
@@ -137,6 +197,11 @@
     "officialName": "Nome videregående skole",
     "accessGroup": "Elev-Nome",
     "phoneNumber": "35 91 87 00",
-    "mail": "nome.vgs@t-fk.no"
+    "mail": "nome.vgs@t-fk.no",
+    "address": "Søveveien 8, 3830 Ulefoss",
+    "geocoded": {
+      "lat": "59.27845",
+      "lon": "9.28459"
+    }
   }
 ]
