@@ -9,4 +9,4 @@ const options = {
 
 tap.equal(schools.length, getSchools().length, 'It returns all schools on empty')
 
-tap.equal(2, getSchools(options).length, 'It returns 2 schools for dalvs')
+tap.equal(1, getSchools(options).length, 'It returns 1 school for dalvs')
