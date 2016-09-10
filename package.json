@@ -1,7 +1,7 @@
 {
   "name": "tfk-schools-info",
   "description": "Get information regarding our schools",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": {
     "name": "Geir Gåsodden",
     "email": "geir.gasodden@pythonia.no",
@@ -15,7 +15,8 @@
     "test": "standard && nsp check && tap --reporter=spec test/*.js",
     "coverage": "tap test/*.js --coverage",
     "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls",
-    "setup": "npm install && node setup.js"
+    "setup": "npm install && node setup.js",
+    "standard-fix": "standard --fix"
   },
   "keywords": [
     "tfk",
