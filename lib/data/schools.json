@@ -1,6 +1,7 @@
 [
   {
     "organizationNumber": "974568179",
+    "organizationNumber360": "974568098",
     "name": "Bamble vgs. avd. Croftholmen",
     "fullName": "Bamble videregående skole, avdeling Croftholmen",
     "shortName": "CROVS",
@@ -16,6 +17,7 @@
   },
   {
     "organizationNumber": "974568098",
+    "organizationNumber360": "974568098",
     "name": "Bamble vgs. avd. Grasmyr",
     "fullName": "Bamble videregående skole, avdeling Grasmyr",
     "shortName": "BAMVS",
@@ -31,6 +33,7 @@
   },
   {
     "organizationNumber": "974567997",
+    "organizationNumber360": "974567997",
     "name": "Bø vgs",
     "fullName": "Bø vidaregåande skule",
     "shortName": "BOEVS",
@@ -46,6 +49,7 @@
   },
   {
     "organizationNumber":"874568082",
+    "organizationNumber360": "874568082",
     "name": "Rjukan vgs",
     "fullName": "Rjukan videregående skole",
     "shortName": "RJUVS",
@@ -61,6 +65,7 @@
   },
   {
     "organizationNumber":"874568112",
+    "organizationNumber360": "874568112",
     "name": "Telemark tekniske fagskole",
     "fullName": "Telemark tekniske fagskole",
     "shortName": "Telemark tekniske fagskole",
@@ -71,6 +76,7 @@
   },
   {
     "organizationNumber": "974568004",
+    "organizationNumber360": "974568004",
     "name": "Kragerø vgs",
     "fullName": "Kragerø videregående skole",
     "shortName": "KRAVS",
@@ -86,6 +92,7 @@
   },
   {
     "organizationNumber":"974568012",
+    "organizationNumber360": "974568012",
     "name": "Notodden vgs",
     "fullName": "Notodden videregående skole",
     "shortName": "NOTVS",
@@ -101,6 +108,7 @@
   },
   {
     "organizationNumber": "974568020",
+    "organizationNumber360": "974568020",
     "name": "Porsgrunn vgs",
     "fullName": "Porsgrunn videregående skole",
     "shortName": "PORVS",
@@ -111,6 +119,7 @@
   },
   {
     "organizationNumber": "974568039",
+    "organizationNumber360": "974568039",
     "name": "Skien vgs",
     "fullName": "Skien videregående skole",
     "shortName": "SKIVS",
@@ -121,6 +130,7 @@
   },
   {
     "organizationNumber": "974568055",
+    "organizationNumber360": "974568055",
     "name": "Vest-Telemark vgs. avd. Dalen",
     "fullName": "Vest-Telemark vidaregåande skule avdeling Dalen",
     "shortName": "DALVS",
@@ -136,6 +146,7 @@
   },
   {
     "organizationNumber": "974568128",
+    "organizationNumber360": "974568055",
     "name": "Vest-Telemark vgs. avd. Seljord",
     "fullName": "Vest-Telemark vidaregåande skule, avdeling Seljord",
     "shortName": "SELVS",
@@ -151,6 +162,7 @@
   },
   {
     "organizationNumber": "974568063",
+    "organizationNumber360": "974568187",
     "name": "Nome vgs. avd. Lunde",
     "fullName": "Nome videregående skole avdeling Lunde",
     "shortName": "LUNVS",
@@ -166,6 +178,7 @@
   },
   {
     "organizationNumber": "974568071",
+    "organizationNumber360": "974568071",
     "name": "Hjalmar Johansen vgs",
     "fullName": "Hjalmar Johansen videregående skole",
     "shortName": "KLOVS",
@@ -176,6 +189,7 @@
   },
   {
     "organizationNumber": "974568152",
+    "organizationNumber360": "974568152",
     "name": "Skogmo vgs",
     "fullName": "Skogmo videregående skole",
     "shortName": "SKOVS",
@@ -191,6 +205,7 @@
   },
   {
     "organizationNumber": "974568187",
+    "organizationNumber360": "974568187",
     "name": "Nome vgs. avd. Søve",
     "fullName": "Nome videregående skole avdeling Søve",
     "shortName": "SOEVS",
