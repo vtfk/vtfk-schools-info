@@ -19,14 +19,14 @@ Use an options object to specify your search.
 
 Possible keys:
 
-**organizationNumber**
-**name**
-**fullName**
-**shortName**
-**officialName**
-**accessGroup**
-**phoneNumber**
-**mail**
+- **organizationNumber**
+- **name**
+- **fullName**
+- **shortName**
+- **officialName**
+- **accessGroup**
+- **phoneNumber**
+- **mail**
 
 ```JavasScript
 'use strict'
