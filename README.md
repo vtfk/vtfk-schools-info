@@ -7,7 +7,7 @@ Information regarding our schools
 
 ## Installation
 
-```sh
+```bash
 $ npm i tfk-schools-info
 ```
 
@@ -28,7 +28,7 @@ Possible keys:
 **phoneNumber**
 **mail**
 
-```javascript
+```JavasScript
 'use strict'
 
 const getSchools = require('tfk-schools-info')
@@ -40,3 +40,9 @@ console.log(getSchools()) //=> All schools
 
 console.log(getSchools(options)) //=> Schools with shortName SKIVS
 ```
+
+## License
+
+[MIT](LICENSE)
+
+![alt text](https://robots.kebabstudios.party/tfk-schools-info.png "Robohash image of tfk-schools-info")
