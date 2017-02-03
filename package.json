@@ -9,7 +9,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=4.6.2"
+    "node": ">=4.7.3"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/*.js",
@@ -27,10 +27,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/telemark/tfk-schools-info.git"
+    "url": "https://github.com/telemark/tfk-schools-info.git"
   },
   "bugs": {
-    "url": "http://github.com/telemark/tfk-schools-info/issues"
+    "url": "https://github.com/telemark/tfk-schools-info/issues"
   },
   "license": "MIT",
   "devDependencies": {
