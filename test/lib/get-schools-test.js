@@ -1,8 +1,8 @@
 'use strict'
 
 const tap = require('tap')
-const schools = require('../lib/data/schools.json')
-const getSchools = require('../lib/get-schools')
+const schools = require('../../lib/data/schools.json')
+const getSchools = require('../../lib/get-schools')
 const options = {
   shortName: 'dalvs'
 }
