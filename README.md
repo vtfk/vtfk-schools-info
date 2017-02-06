@@ -3,6 +3,8 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # tfk-schools-info
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-schools-info.svg)](https://greenkeeper.io/)
 Information regarding our schools
 
 ## Installation
