@@ -1,5 +1,6 @@
 [
   {
+    "schoolId": "8001",
     "organizationNumber": "974568179",
     "organizationNumber360": "974568098",
     "name": "Bamble vgs. avd. Croftholmen",
@@ -16,6 +17,7 @@
     }
   },
   {
+    "schoolId": "8001",
     "organizationNumber": "974568098",
     "organizationNumber360": "974568098",
     "name": "Bamble vgs. avd. Grasmyr",
@@ -32,6 +34,7 @@
     }
   },
   {
+    "schoolId": "8020",
     "organizationNumber": "974567997",
     "organizationNumber360": "974567997",
     "name": "Bø vgs",
@@ -48,6 +51,7 @@
     }
   },
   {
+    "schoolId": "8050",
     "organizationNumber":"874568082",
     "organizationNumber360": "874568082",
     "name": "Rjukan vgs",
@@ -64,6 +68,7 @@
     }
   },
   {
+    "schoolId": "",
     "organizationNumber":"874568112",
     "organizationNumber360": "874568112",
     "name": "Telemark tekniske fagskole",
@@ -75,6 +80,7 @@
     "mail": ""
   },
   {
+    "schoolId": "8010",
     "organizationNumber": "974568004",
     "organizationNumber360": "974568004",
     "name": "Kragerø vgs",
@@ -91,6 +97,7 @@
     }
   },
   {
+    "schoolId": "8022",
     "organizationNumber":"974568012",
     "organizationNumber360": "974568012",
     "name": "Notodden vgs",
@@ -107,6 +114,7 @@
     }
   },
   {
+    "schoolId": "8006",
     "organizationNumber": "974568020",
     "organizationNumber360": "974568020",
     "name": "Porsgrunn vgs",
@@ -118,6 +126,7 @@
     "mail": "porsgrunn.vgs@t-fk.no"
   },
   {
+    "schoolId": "8007",
     "organizationNumber": "974568039",
     "organizationNumber360": "974568039",
     "name": "Skien vgs",
@@ -129,6 +138,7 @@
     "mail": "skien.vgs@t-fk.no"
   },
   {
+    "schoolId": "8040",
     "organizationNumber": "974568055",
     "organizationNumber360": "974568055",
     "name": "Vest-Telemark vgs. avd. Dalen",
@@ -145,6 +155,7 @@
     }
   },
   {
+    "schoolId": "8040",
     "organizationNumber": "974568128",
     "organizationNumber360": "974568055",
     "name": "Vest-Telemark vgs. avd. Seljord",
@@ -161,6 +172,7 @@
     }
   },
   {
+    "schoolId": "8026",
     "organizationNumber": "974568063",
     "organizationNumber360": "974568187",
     "name": "Nome vgs. avd. Lunde",
@@ -177,6 +189,7 @@
     }
   },
   {
+    "schoolId": "8004",
     "organizationNumber": "974568071",
     "organizationNumber360": "974568071",
     "name": "Hjalmar Johansen vgs",
@@ -188,6 +201,7 @@
     "mail": "hjalmarjohansen.vgs@t-fk.no"
   },
   {
+    "schoolId": "8008",
     "organizationNumber": "974568152",
     "organizationNumber360": "974568152",
     "name": "Skogmo vgs",
@@ -204,6 +218,7 @@
     }
   },
   {
+    "schoolId": "8026",
     "organizationNumber": "974568187",
     "organizationNumber360": "974568187",
     "name": "Nome vgs. avd. Søve",
