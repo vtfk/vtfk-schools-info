@@ -1,5 +1,3 @@
-'use strict'
-
 const tap = require('tap')
 const schools = require('../../lib/data/schools.json')
 const getSchools = require('../../lib/get-schools')

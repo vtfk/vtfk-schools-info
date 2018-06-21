@@ -4,7 +4,6 @@
 
 # tfk-schools-info
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-schools-info.svg)](https://greenkeeper.io/)
 Information regarding our schools
 
 ## Installation
@@ -31,7 +30,6 @@ Possible keys:
 - **mail**
 
 ```JavasScript
-'use strict'
 
 const getSchools = require('tfk-schools-info')
 const options = {
@@ -43,8 +41,25 @@ console.log(getSchools()) //=> All schools
 console.log(getSchools(options)) //=> Schools with shortName SKIVS
 ```
 
+### Basic groups
+
+To list all basic groups from a school
+
+```JavaScript
+const { getGroups } = require('tfk-schools-info')
+
+console.log(getGroups('SKIVS'))
+```
+To list all groups for all schools
+
+```JavaScript
+const { getGroups } = require('tfk-schools-info')
+
+console.log(getGroups())
+```
+
 ## License
 
 [MIT](LICENSE)
 
-![alt text](https://robots.kebabstudios.party/tfk-schools-info.png "Robohash image of tfk-schools-info")
+![Robohash image of tfk-schools-info](https://robots.kebabstudios.party/tfk-schools-info.png "Robohash image of tfk-schools-info")
