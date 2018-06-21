@@ -17,7 +17,9 @@
     "coverage": "tap test/**/*.js --coverage",
     "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
     "standard-fix": "standard --fix",
-    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install",
+    "generate-groups": "node utils/generate-groups-data.js > lib/data/groups.json",
+    "convert-excel": "node utils/convert-excel-to-json.js"
   },
   "keywords": [
     "tfk",
@@ -37,6 +39,7 @@
   "license": "MIT",
   "devDependencies": {
     "coveralls": "3.0.1",
+    "excel-as-json": "2.0.2",
     "standard": "11.0.1",
     "tap": "12.0.1"
   }
