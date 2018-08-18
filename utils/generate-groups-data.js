@@ -11,6 +11,9 @@ const basic = groups.reduce((prev, curr) => {
   return prev
 }, {})
 
+// NOMVS fix
+schools.push({shortName: 'NOMVS'})
+
 const data = schools.reduce((prev, current) => {
   prev[current.shortName] = basic[current.shortName]
   return prev

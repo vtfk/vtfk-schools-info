@@ -1366,5 +1366,147 @@
       "id": "3PRETEL",
       "name": "Telemontorer"
     }
+  ],
+  "NOMVS": [
+    {
+      "id": "GRSK",
+      "name": "Grunnskoleelev"
+    },
+    {
+      "id": "VG3KJTB",
+      "name": "Vg3 Bilfaget, lette kjøretøy B"
+    },
+    {
+      "id": "VO2BYA",
+      "name": "VO Byggteknikk NAV"
+    },
+    {
+      "id": "VO2HEA",
+      "name": "VO Helsearbeiderfag NAV"
+    },
+    {
+      "id": "VO2HEB",
+      "name": "VO Helsearbeiderfag"
+    },
+    {
+      "id": "VO3LBA",
+      "name": "Vg3 Landbruk og husdyrhold"
+    },
+    {
+      "id": "1BAA",
+      "name": "Vg1 bygg- og anleggsteknikk A"
+    },
+    {
+      "id": "1BAB",
+      "name": "Vg1 Bygg- og anleggsteknikk B"
+    },
+    {
+      "id": "1BAC",
+      "name": "Vg1 Bygg- og anleggsteknikk C"
+    },
+    {
+      "id": "1DHA",
+      "name": "Vg1 Design og håndverk"
+    },
+    {
+      "id": "1ELA",
+      "name": "Vg1 Elektrofag A"
+    },
+    {
+      "id": "1ELB",
+      "name": "Vg1 Elektrofag B"
+    },
+    {
+      "id": "1HSA",
+      "name": "Vg1 Helse- og oppvekstfag A"
+    },
+    {
+      "id": "1HSB",
+      "name": "Vg1 Helse- og oppvekstfag B"
+    },
+    {
+      "id": "1HSC",
+      "name": "Vg1  HS  liten gruppe  1. år"
+    },
+    {
+      "id": "1NAA",
+      "name": "Vg1 Naturbruk A"
+    },
+    {
+      "id": "1NAB",
+      "name": "Vg1 Naturbruk B"
+    },
+    {
+      "id": "1TIA",
+      "name": "Vg1 Teknikk og ind. produksjon A"
+    },
+    {
+      "id": "1TIB",
+      "name": "Vg1 Teknikk og ind. produksjon B"
+    },
+    {
+      "id": "2AIDA",
+      "name": "Vg2 Anleggsgartner- og idrettsanleggsfag"
+    },
+    {
+      "id": "2ANLA",
+      "name": "Vg2 Anleggsteknikk A"
+    },
+    {
+      "id": "2ANLB",
+      "name": "Vg2 Anleggsteknikk B"
+    },
+    {
+      "id": "2BYGA",
+      "name": "Vg2 Byggteknikk A"
+    },
+    {
+      "id": "2BYGB",
+      "name": "Vg2 Byggteknikk B"
+    },
+    {
+      "id": "2ELEA",
+      "name": "Vg2 Elenergi"
+    },
+    {
+      "id": "2FRIA",
+      "name": "Vg2 Frisør"
+    },
+    {
+      "id": "2HEAA",
+      "name": "Vg2 Helsearbeiderfag"
+    },
+    {
+      "id": "2HHOA",
+      "name": "Vg2 Heste- og hovslagerfag"
+    },
+    {
+      "id": "2LGAA",
+      "name": "Vg2 Landbruk og gartnernæring"
+    },
+    {
+      "id": "2LGAB",
+      "name": "Vg2  LG  liten gruppe 2. år"
+    },
+    {
+      "id": "2PINA",
+      "name": "Vg2 Industriteknologi"
+    },
+    {
+      "id": "2SBRA",
+      "name": "Vg2 Skogbruk"
+    },
+    {
+      "id": "3LBRA",
+      "name": "Vg3 Landbruk"
+    },
+    {
+      "id": "3NABA",
+      "name": "Vg3 Studieforberedende naturbruk"
+    },
+    {
+      "id": "3PBYA",
+      "name": "Vg3 Påbygg til gen.studiekomp."
+    }
   ]
 }
