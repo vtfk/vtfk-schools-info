@@ -323,11 +323,15 @@
       "name": "Vg1 Idrettsfag Basisgr.A"
     },
     {
-      "id": "1STP",
+      "id": "1STI",
+      "name": "Vg1 Studiespesialisering innovasjon"
+    },
+    {
+      "id": "1STA",
       "name": "Vg1 Studiespesialisering Basisgr.A"
     },
     {
-      "id": "1STT",
+      "id": "1STB",
       "name": "Vg1 Studiespesialisering Basisgr.B"
     },
     {
