@@ -61,5 +61,3 @@ console.log(getGroups())
 ## License
 
 [MIT](LICENSE)
-
-![Robohash image of tfk-schools-info](https://robots.kebabstudios.party/tfk-schools-info.png "Robohash image of tfk-schools-info")
