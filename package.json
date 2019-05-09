@@ -41,6 +41,6 @@
     "coveralls": "3.0.3",
     "excel-as-json": "2.0.2",
     "standard": "12.0.1",
-    "tap": "13.1.3"
+    "tap": "13.1.6"
   }
 }
