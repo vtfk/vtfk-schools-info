@@ -1,7 +1,7 @@
 const schools = require('../lib/data/schools.json')
 const groups = require('./data/basisgrupper.json')
 const basic = groups.reduce((prev, curr) => {
-  if (!prev.hasOwnProperty(curr.Enhet)) {
+  if (!Object.prototype.hasOwnProperty.call(prev, curr.Enhet)) {
     prev[curr.Enhet] = []
   }
   prev[curr.Enhet].push({
