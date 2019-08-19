@@ -1,7 +1,7 @@
 {
   "name": "tfk-schools-info",
   "description": "Get information regarding our schools",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "author": {
     "name": "Geir Gåsodden",
     "email": "geir.gasodden@pythonia.no",
@@ -38,9 +38,9 @@
   "homepage": "https://github.com/telemark/tfk-schools-info/issues#readme",
   "license": "MIT",
   "devDependencies": {
-    "coveralls": "3.0.3",
+    "coveralls": "3.0.6",
     "excel-as-json": "2.0.2",
-    "standard": "12.0.1",
-    "tap": "14.0.0"
+    "standard": "13.1.0",
+    "tap": "14.6.1"
   }
 }
