@@ -10,5 +10,5 @@ if (Object.keys(dependencies).length > 0) {
     tap.ok(module, `${dependency} loads ok`)
   })
 } else {
-  tap.equal(true, true, `no dev-dependencies to test`)
+  tap.equal(true, true, 'no dev-dependencies to test')
 }
