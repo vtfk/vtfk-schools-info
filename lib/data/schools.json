@@ -248,5 +248,23 @@
       "lon": "9.28459"
     },
     "yff": true
+  },
+  {
+    "schoolId": "8026",
+    "organizationNumber": "974568187",
+    "organizationNumber360": "974568187",
+    "name": "Nome vgs.",
+    "fullName": "Nome videregående skole",
+    "shortName": "NOMVS",
+    "officialName": "Nome videregående skole",
+    "accessGroup": "Elev-Nome",
+    "phoneNumber": "35 91 87 00",
+    "mail": "nome.vgs@t-fk.no",
+    "address": "Søveveien 8, 3830 Ulefoss",
+    "geocoded": {
+      "lat": "59.27845",
+      "lon": "9.28459"
+    },
+    "yff": true
   }
 ]
