@@ -1,7 +1,7 @@
 {
   "name": "tfk-schools-info",
   "description": "Get information regarding our schools",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "author": {
     "name": "Geir Gåsodden",
     "email": "geir.gasodden@pythonia.no",
