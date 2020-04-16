@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/vtfk/vtfk-schools-info.svg?branch=master)](https://travis-ci.org/vtfk/vtfk-schools-info)
-[![Coverage Status](https://coveralls.io/repos/vtfk/vtfk-schools-info/badge.svg?branch=master&service=github)](https://coveralls.io/github/vtfk/vtfk-schools-info?branch=master)
+[![Build Status](https://travis-ci.com/vtfk/vtfk-schools-info.svg?branch=master)](https://travis-ci.com/vtfk/vtfk-schools-info)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # vtfk-schools-info
