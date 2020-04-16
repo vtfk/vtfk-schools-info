@@ -1,5 +1,4 @@
-[
-  {
+[{
     "schoolId": "8001",
     "organizationNumber": "974568179",
     "organizationNumber360": "974568098",
@@ -55,7 +54,7 @@
   },
   {
     "schoolId": "8050",
-    "organizationNumber":"874568082",
+    "organizationNumber": "874568082",
     "organizationNumber360": "874568082",
     "name": "Rjukan vgs",
     "fullName": "Rjukan videregående skole",
@@ -73,7 +72,7 @@
   },
   {
     "schoolId": "",
-    "organizationNumber":"874568112",
+    "organizationNumber": "874568112",
     "organizationNumber360": "874568112",
     "name": "Telemark tekniske fagskole",
     "fullName": "Telemark tekniske fagskole",
@@ -104,7 +103,7 @@
   },
   {
     "schoolId": "8022",
-    "organizationNumber":"974568012",
+    "organizationNumber": "974568012",
     "organizationNumber360": "974568012",
     "name": "Notodden vgs",
     "fullName": "Notodden videregående skole",
@@ -266,5 +265,221 @@
       "lon": "9.28459"
     },
     "yff": true
+  },
+  {
+    "schoolId": "38032",
+    "organizationNumber": "974575086",
+    "organizationNumber360": "974575086",
+    "name": "Færder vgs",
+    "fullName": "Færder videregående skole",
+    "shortName": "FRVS",
+    "officialName": "Færder videregående skole",
+    "accessGroup": "Elev Færder vgs",
+    "phoneNumber": "33 30 96 00",
+    "mail": "ferder.vgs@vtfk.no",
+    "address": "Banebakken 44, 3127 TØNSBERG",
+    "geocoded": {
+      "lat": "59.26096",
+      "lon": "10.41013"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38042",
+    "organizationNumber": "974575116",
+    "organizationNumber360": "974575116",
+    "name": "Sande vgs",
+    "fullName": "Sande videregående skole",
+    "shortName": "SVS",
+    "officialName": "Sande videregående skole",
+    "accessGroup": "Elev Sande vgs",
+    "phoneNumber": "33 78 50 50",
+    "mail": "sande.vgs@vtfk.no",
+    "address": "Hans Kristian Evensens vei 53, 3076 SANDE I VESTFOLD",
+    "geocoded": {
+      "lat": "59.58604",
+      "lon": "10.24090"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38050",
+    "organizationNumber": "994309153",
+    "organizationNumber360": "994309153",
+    "name": "Kompetansebyggeren",
+    "fullName": "Kompetansebyggeren Vestfold",
+    "shortName": "KBV",
+    "officialName": "Kompetansebyggeren Vestfold",
+    "accessGroup": "Elev Kompetansebyggeren",
+    "phoneNumber": "33 30 93 00",
+    "mail": "kompetansebyggeren@vtfk.no",
+    "address": "Nordbyen 40, 3111 TØNSBERG",
+    "geocoded": {
+      "lat": "59.27439",
+      "lon": "10.39947"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38034",
+    "organizationNumber": "974574993",
+    "organizationNumber360": "974574993",
+    "name": "Greveskogen vgs",
+    "fullName": "Greveskogen videregående skole",
+    "shortName": "GRVS",
+    "officialName": "Greveskogen videregående skole",
+    "accessGroup": "Elev Greveskogen vgs",
+    "phoneNumber": "33 01 61 00",
+    "mail": "greveskogen.vgs@vfk.no",
+    "address": "Eikveien 2, 3122 TØNSBERG",
+    "geocoded": {
+      "lat": "59.28730",
+      "lon": "10.41509"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38028",
+    "organizationNumber": "974575051",
+    "organizationNumber360": "974575051",
+    "name": "Melsom vgs",
+    "fullName": "Melsom videregående skole",
+    "shortName": "MVS",
+    "officialName": "Melsom videregående skole",
+    "accessGroup": "Elev Melsom vgs",
+    "phoneNumber": "33 30 96 00",
+    "mail": "melsom.vgs@vtfk.no",
+    "address": "Melsomvikveien 180, 3159 MELSOMVIK",
+    "geocoded": {
+      "lat": "59.23004",
+      "lon": "10.34694"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38038",
+    "organizationNumber": "874575232",
+    "organizationNumber360": "874575232",
+    "name": "Re vgs",
+    "fullName": "Re videregående skole",
+    "shortName": "RVS",
+    "officialName": "Re videregående skole",
+    "accessGroup": "Elev Re vgs",
+    "phoneNumber": "33 30 66 30",
+    "mail": "postmottak.revgs@vtfk.no",
+    "address": "Bergsåsveien 44, 3175 REVETAL",
+    "geocoded": {
+      "lat": "59.35799",
+      "lon": "10.24879"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38036",
+    "organizationNumber": "923261354",
+    "organizationNumber360": "923261354",
+    "name": "Horten vgs",
+    "fullName": "Horten videregående skole",
+    "shortName": "HVS",
+    "officialName": "Horten videregående skole",
+    "accessGroup": "Elev Horten vgs",
+    "phoneNumber": "33 07 90 00",
+    "mail": "horten.vgs@vtfk.no",
+    "address": "Strandpromenaden 33, 3183 HORTEN",
+    "geocoded": {
+      "lat": "59.42085",
+      "lon": "10.48809"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38026",
+    "organizationNumber": "974575019",
+    "organizationNumber360": "974575019",
+    "name": "Sandefjord vgs",
+    "fullName": "Sandefjord videregående skole",
+    "shortName": "SFVS",
+    "officialName": "Sandefjord videregående skole",
+    "accessGroup": "Elev Sandefjord vgs",
+    "phoneNumber": "33 48 85 00",
+    "mail": "sandefjord.vgs@vtfk.no",
+    "address": "Krokemoveien 2-4, 3214 SANDEFJORD",
+    "geocoded": {
+      "lat": "59.13290",
+      "lon": "10.20375"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38024",
+    "organizationNumber": "974575027",
+    "organizationNumber360": "974575027",
+    "name": "Thor Heyerdahl vgs",
+    "fullName": "Thor Heyerdahl videregående skole",
+    "shortName": "THVS",
+    "officialName": "Thor Heyerdahl videregående skole",
+    "accessGroup": "Elev Thor Heyerdahl vgs",
+    "phoneNumber": "33 12 31 00",
+    "mail": "thorheyerdahl.vgs@vtfk.no",
+    "address": "Hoffsgate 6, 3262 LARVIK",
+    "geocoded": {
+      "lat": "59.04951",
+      "lon": "10.05465"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38036",
+    "organizationNumber": "923261354",
+    "organizationNumber360": "923261354",
+    "name": "Nettskolen Vestfold",
+    "fullName": "Nettskolen Vestfold",
+    "shortName": "HVS-NETT",
+    "officialName": "Nettskolen Vestfold",
+    "accessGroup": "Elev Horten vgs",
+    "phoneNumber": "33 07 90 00",
+    "mail": "nettskolen@vtfk.no",
+    "address": "Strandpromenaden 33, 3183 HORTEN",
+    "geocoded": {
+      "lat": "59.42085",
+      "lon": "10.48809"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38040",
+    "organizationNumber": "874575062",
+    "organizationNumber360": "874575062",
+    "name": "Holmestrand vgs",
+    "fullName": "Holmestrand videregående skole",
+    "shortName": "HLVS",
+    "officialName": "Holmestrand videregående skole",
+    "accessGroup": "Elev Holmestrand vgs",
+    "phoneNumber": "33 06 63 50",
+    "mail": "holmestrand.vgs@vtfk.no",
+    "address": "Vesthøyveien 7B, 3085 HOLMESTRAND",
+    "geocoded": {
+      "lat": "59.48239",
+      "lon": "10.29552"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38030",
+    "organizationNumber": "974575000",
+    "organizationNumber360": "974575000",
+    "name": "Nøtterøy vgs",
+    "fullName": "Nøtterøy videregående skole",
+    "shortName": "NVS",
+    "officialName": "Nøtterøy videregående skole",
+    "accessGroup": "Elev Nøtterøy vgs",
+    "phoneNumber": "33 35 10 00",
+    "mail": "notteroy.vgs@vtfk.no",
+    "address": "Rektorveien 10, 3140 NØTTERØY",
+    "geocoded": {
+      "lat": "59.11995",
+      "lon": "10.19118"
+    },
+    "yff": false
   }
 ]

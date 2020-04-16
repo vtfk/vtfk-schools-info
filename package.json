@@ -1,11 +1,11 @@
 {
-  "name": "tfk-schools-info",
+  "name": "vtfk-schools-info",
   "description": "Get information regarding our schools",
   "version": "2.2.0",
   "author": {
-    "name": "Geir Gåsodden",
-    "email": "geir.gasodden@pythonia.no",
-    "url": "https://github.com/zrrrzzt"
+    "name": "Mats Andreassen",
+    "email": "mats.andreassen@vtfk.no",
+    "url": "https://github.com/matsand"
   },
   "main": "index.js",
   "engines": {
@@ -22,25 +22,25 @@
     "convert-excel": "node utils/convert-excel-to-json.js"
   },
   "keywords": [
-    "tfk",
-    "Telemark fylkeskommune",
+    "vtfk",
+    "Vestfold og Telemark fylkeskommune",
     "Saksbehandling",
     "Videregående skole",
     "vgs"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/telemark/tfk-schools-info.git"
+    "url": "git+https://github.com/vtfk/vtfk-schools-info.git"
   },
   "bugs": {
-    "url": "https://github.com/telemark/tfk-schools-info/issues"
+    "url": "https://github.com/vtfk/vtfk-schools-info/issues"
   },
-  "homepage": "https://github.com/telemark/tfk-schools-info/issues#readme",
+  "homepage": "https://github.com/vtfk/vtfk-schools-info/issues#readme",
   "license": "MIT",
   "devDependencies": {
-    "coveralls": "3.0.6",
+    "coveralls": "3.0.9",
     "excel-as-json": "2.0.2",
     "standard": "14.3.1",
-    "tap": "14.6.9"
+    "tap": "14.10.6"
   }
 }
