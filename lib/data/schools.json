@@ -71,19 +71,6 @@
     "yff": true
   },
   {
-    "schoolId": "",
-    "organizationNumber": "874568112",
-    "organizationNumber360": "874568112",
-    "name": "Telemark tekniske fagskole",
-    "fullName": "Telemark tekniske fagskole",
-    "shortName": "Telemark tekniske fagskole",
-    "officialName": "Telemark tekniske fagskole",
-    "accessGroup": "",
-    "phoneNumber": "",
-    "mail": "",
-    "yff": false
-  },
-  {
     "schoolId": "8010",
     "organizationNumber": "974568004",
     "organizationNumber360": "974568004",
@@ -497,6 +484,42 @@
     "geocoded": {
       "lat": "59.11995",
       "lon": "10.19118"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "70030",
+    "organizationNumber": "821227062",
+    "organizationNumber360": "821227062",
+    "name": "Fagskolen",
+    "fullName": "Fagskolen Vesfold og Telemark",
+    "shortName": "FIV",
+    "officialName": "Fagskolen Vestfold og Telemark",
+    "accessGroup": "Elev fagskolen",
+    "phoneNumber": "35 91 77 50",
+    "mail": "fagskolen@vtfk.no",
+    "address": "Raveien 189, 3184 BORRE",
+    "geocoded": {
+      "lat": "59.36948",
+      "lon": "10.44374"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "70035",
+    "organizationNumber": "874568112",
+    "organizationNumber360": "874568112",
+    "name": "Fagskolen",
+    "fullName": "Fagskolen Vesfold og Telemark",
+    "shortName": "TELVS",
+    "officialName": "Fagskolen Vestfold og Telemark",
+    "accessGroup": "Elev fagskolen",
+    "phoneNumber": "35 91 77 50",
+    "mail": "fagskolen@vtfk.no",
+    "address": "Kjølnes Ring 26, 3918 PORSGRUNN",
+    "geocoded": {
+      "lat": "59.13601",
+      "lon": "9.67436"
     },
     "yff": false
   }
