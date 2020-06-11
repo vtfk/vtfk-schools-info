@@ -357,6 +357,24 @@
     "yff": false
   },
   {
+    "schoolId": "38028",
+    "organizationNumber": "973754815",
+    "organizationNumber360": "973754815",
+    "name": "SMI-skolen",
+    "fullName": "Skolen for sosiale og medisinske institusjoner",
+    "shortName": "MVS-SMIH",
+    "officialName": "Skolen for sosiale og medisinske institusjoner",
+    "accessGroup": "Elev skolen for sosiale og medisinske institusjoner",
+    "phoneNumber": "47 89 40 00",
+    "mail": "smiskolen@vtfk.no",
+    "address": "Melsomvikveien 182, 3159 MELSOMVIK",
+    "geocoded": {
+      "lat": "59.22987",
+      "lon": "10.34326"
+    },
+    "yff": false
+  },
+  {
     "schoolId": "38038",
     "organizationNumber": "874575232",
     "organizationNumber360": "874575232",
