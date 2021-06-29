@@ -32,7 +32,7 @@ Possible keys:
 
 const getSchools = require('vtfk-schools-info')
 const options = {
-  shortName: 'skivs'
+  shortName: 'SKIV'
 }
 
 console.log(getSchools()) //=> All schools
