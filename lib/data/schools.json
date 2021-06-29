@@ -10,7 +10,11 @@
     "accessGroup": "Elev Bamble vgs",
     "phoneNumber": "35 91 94 00",
     "mail": "bamble.vgs@vtfk.no",
-    "address": "Tønderveien 6, 3961 Stathelle",
+    "address": {
+      "street": "Tønderveien 6",
+      "zip": "3961",
+      "place": "Stathelle"
+    },
     "geocoded": {
       "lat": "59.02786",
       "lon": "9.70322"
@@ -28,7 +32,11 @@
     "accessGroup": "Elev Bø vgs",
     "phoneNumber": "35 91 90 00",
     "mail": "bo.vgs@vtfk.no",
-    "address": "Gymnasbakken 23, 3802 Bø",
+    "address": {
+      "street": "Gymnasbakken 23",
+      "zip": "3802",
+      "place": "Bø"
+    },
     "geocoded": {
       "lat": "59.41723",
       "lon": "9.06292"
@@ -46,7 +54,11 @@
     "accessGroup": "Elev Rjukan vgs",
     "phoneNumber": "35 91 99 00",
     "mail": "rjukan.vgs@vtfk.no",
-    "address": "Såheimveien 22, 3660 Rjukan",
+    "address": {
+      "street": "Såheimveien 22",
+      "zip": "3660",
+      "place": "Rjukan"
+    },
     "geocoded": {
       "lat": "59.87821",
       "lon": "8.58058"
@@ -64,7 +76,11 @@
     "accessGroup": "Elev Kragerø vgs",
     "phoneNumber": "35 91 95 00",
     "mail": "kragero.vgs@vtfk.no",
-    "address": "Frydensborgveien 9-11, 3770 Kragerø",
+    "address": {
+      "street": "Frydensborgveien 9-11",
+      "zip": "3770",
+      "place": "Kragerø"
+    },
     "geocoded": {
       "lat": "58.87151",
       "lon": "9.39249"
@@ -82,7 +98,11 @@
     "accessGroup": "Elev Notodden vgs",
     "phoneNumber": "35 91 85 00",
     "mail": "notodden.vgs@vtfk.no",
-    "address": "Heddalsveien 4, 3674 Notodden",
+    "address": {
+      "street": "Heddalsveien 4",
+      "zip": "3674",
+      "place": "Notodden"
+    },
     "geocoded": {
       "lat": "59.55564",
       "lon": "9.25747"
@@ -100,6 +120,11 @@
     "accessGroup": "Elev Porsgrunn vgs",
     "phoneNumber": "35 91 75 00",
     "mail": "porsgrunn.vgs@vtfk.no",
+    "address": {
+      "street": "Kjølnes Ring 58",
+      "zip": "3918",
+      "place": "PORSGRUNN"
+    },
     "yff": true
   },
   {
@@ -113,6 +138,11 @@
     "accessGroup": "Elev Skien vgs",
     "phoneNumber": "35 91 80 00",
     "mail": "skien.vgs@vtfk.no",
+    "address": {
+      "street": "Hollenderigata 5",
+      "zip": "3732",
+      "place": "Skien"
+    },
     "yff": true
   },
   {
@@ -126,7 +156,11 @@
     "accessGroup": "Elev Vest-Telemark vgs",
     "phoneNumber": "35 91 97 00",
     "mail": "vesttelemark.vgs@vtfk.no",
-    "address": "Storvegen 195, 3880 Dalen",
+    "address": {
+      "street": "Storvegen 195",
+      "zip": "3880",
+      "place": "Dalen"
+    },
     "geocoded": {
       "lat": "59.44657",
       "lon": "7.98785"
@@ -144,6 +178,11 @@
     "accessGroup": "Elev Hjalmar Johansen vgs",
     "phoneNumber": "35 91 83 00",
     "mail": "hjalmarjohansen.vgs@vtfk.no",
+    "address": {
+      "street": "Moflatvegen 38",
+      "zip": "3733",
+      "place": "Skien"
+    },
     "yff": true
   },
   {
@@ -157,7 +196,11 @@
     "accessGroup": "Elev Skogmo vgs",
     "phoneNumber": "35 91 92 00",
     "mail": "skogmo.vgs@vtfk.no",
-    "address": "Kjørbekkdalen 11, 3735 Skien",
+    "address": {
+      "street": "Kjørbekkdalen 11",
+      "zip": "3735",
+      "place": "Skien"
+    },
     "geocoded": {
       "lat": "59.17301",
       "lon": "9.62081"
@@ -175,7 +218,11 @@
     "accessGroup": "Elev Nome vgs",
     "phoneNumber": "35 91 87 00",
     "mail": "nome.vgs@vtfk.no",
-    "address": "Søveveien 8, 3830 Ulefoss",
+    "address": {
+      "street": "Søveveien 8",
+      "zip": "3830",
+      "place": "Ulefoss"
+    },
     "geocoded": {
       "lat": "59.27845",
       "lon": "9.28459"
@@ -193,7 +240,11 @@
     "accessGroup": "Elev Færder vgs",
     "phoneNumber": "33 30 96 00",
     "mail": "ferder.vgs@vtfk.no",
-    "address": "Banebakken 44, 3127 TØNSBERG",
+    "address": {
+      "street": "Banebakken 44",
+      "zip": "3127",
+      "place": "TØNSBERG"
+    },
     "geocoded": {
       "lat": "59.26096",
       "lon": "10.41013"
@@ -211,7 +262,11 @@
     "accessGroup": "Elev Sande vgs",
     "phoneNumber": "33 78 50 50",
     "mail": "sande.vgs@vtfk.no",
-    "address": "Hans Kristian Evensens vei 53, 3076 SANDE I VESTFOLD",
+    "address": {
+      "street": "Hans Kristian Evensens vei 53",
+      "zip": "3076",
+      "place": "SANDE"
+    },
     "geocoded": {
       "lat": "59.58604",
       "lon": "10.24090"
@@ -229,7 +284,11 @@
     "accessGroup": "Elev Kompetansebyggeren",
     "phoneNumber": "33 30 93 00",
     "mail": "kb@vtfk.no",
-    "address": "Nordbyen 40, 3111 TØNSBERG",
+    "address": {
+      "street": "Nordbyen 40",
+      "zip": "3111",
+      "place": "TØNSBERG"
+    },
     "geocoded": {
       "lat": "59.27439",
       "lon": "10.39947"
@@ -247,7 +306,11 @@
     "accessGroup": "Elev Greveskogen vgs",
     "phoneNumber": "33 01 61 00",
     "mail": "greveskogen.vgs@vfk.no",
-    "address": "Eikveien 2, 3122 TØNSBERG",
+    "address": {
+      "street": "Eikveien 2",
+      "zip": "3122",
+      "place": "TØNSBERG"
+    },
     "geocoded": {
       "lat": "59.28730",
       "lon": "10.41509"
@@ -265,7 +328,11 @@
     "accessGroup": "Elev Melsom vgs",
     "phoneNumber": "33 36 39 00",
     "mail": "melsom.vgs@vtfk.no",
-    "address": "Melsomvikveien 180, 3159 MELSOMVIK",
+    "address": {
+      "street": "Melsomvikveien 180",
+      "zip": "3159",
+      "place": "MELSOMVIK"
+    },
     "geocoded": {
       "lat": "59.23004",
       "lon": "10.34694"
@@ -283,7 +350,11 @@
     "accessGroup": "Elev skolen for sosiale og medisinske institusjoner",
     "phoneNumber": "47 89 40 00",
     "mail": "smi-skolen@vtfk.no",
-    "address": "Melsomvikveien 182, 3159 MELSOMVIK",
+    "address": {
+      "street": "Melsomvikveien 182",
+      "zip": "3159",
+      "place": "MELSOMVIK"
+    },
     "geocoded": {
       "lat": "59.22987",
       "lon": "10.34326"
@@ -301,7 +372,11 @@
     "accessGroup": "Elev Re vgs",
     "phoneNumber": "33 30 66 30",
     "mail": "postmottak.revgs@vtfk.no",
-    "address": "Bergsåsveien 44, 3175 REVETAL",
+    "address": {
+      "street": "Bergsåsveien 44",
+      "zip": "3175",
+      "place": "REVETAL"
+    },
     "geocoded": {
       "lat": "59.35799",
       "lon": "10.24879"
@@ -319,7 +394,11 @@
     "accessGroup": "Elev Horten vgs",
     "phoneNumber": "33 07 90 00",
     "mail": "horten.vgs@vtfk.no",
-    "address": "Strandpromenaden 33, 3183 HORTEN",
+    "address": {
+      "street": "Strandpromenaden 33",
+      "zip": "3183",
+      "place": "HORTEN"
+    },
     "geocoded": {
       "lat": "59.42085",
       "lon": "10.48809"
@@ -337,7 +416,11 @@
     "accessGroup": "Elev Sandefjord vgs",
     "phoneNumber": "33 48 85 00",
     "mail": "sandefjord.vgs@vtfk.no",
-    "address": "Krokemoveien 2-4, 3214 SANDEFJORD",
+    "address": {
+      "street": "Krokemoveien 2-4",
+      "zip": "3214",
+      "place": "SANDEFJORD"
+    },
     "geocoded": {
       "lat": "59.13290",
       "lon": "10.20375"
@@ -355,7 +438,11 @@
     "accessGroup": "Elev Thor Heyerdahl vgs",
     "phoneNumber": "33 12 31 00",
     "mail": "thorheyerdahl.vgs@vtfk.no",
-    "address": "Hoffsgate 6, 3262 LARVIK",
+    "address": {
+      "street": "Hoffsgate 6",
+      "zip": "3262",
+      "place": "LARVIK"
+    },
     "geocoded": {
       "lat": "59.04951",
       "lon": "10.05465"
@@ -373,7 +460,11 @@
     "accessGroup": "Elev Holmestrand vgs",
     "phoneNumber": "33 06 63 50",
     "mail": "holmestrand.vgs@vtfk.no",
-    "address": "Botne kirkevei 17, 3085 HOLMESTRAND",
+    "address": {
+      "street": "Botne kirkevei 17",
+      "zip": "3085",
+      "place": "HOLMESTRAND"
+    },
     "geocoded": {
       "lat": "59.48239",
       "lon": "10.29552"
@@ -391,7 +482,11 @@
     "accessGroup": "Elev Nøtterøy vgs",
     "phoneNumber": "33 35 10 00",
     "mail": "notteroy.vgs@vtfk.no",
-    "address": "Rektorveien 10, 3140 NØTTERØY",
+    "address": {
+      "street": "Rektorveien 10",
+      "zip": "3140",
+      "place": "NØTTERØY"
+    },
     "geocoded": {
       "lat": "59.11995",
       "lon": "10.19118"
@@ -409,7 +504,11 @@
     "accessGroup": "Elev fagskolen",
     "phoneNumber": "35 91 77 50",
     "mail": "fagskolen@vtfk.no",
-    "address": "Kjølnes Ring 26, 3918 PORSGRUNN",
+    "address": {
+      "street": "Kjølnes Ring 26",
+      "zip": "3918",
+      "place": "PORSGRUNN"
+    },
     "geocoded": {
       "lat": "59.13601",
       "lon": "9.67436"
