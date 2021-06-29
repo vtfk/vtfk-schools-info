@@ -17,9 +17,7 @@
     "coverage": "tap test/**/*.js --coverage",
     "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
     "standard-fix": "standard --fix",
-    "refresh": "rm -rf node_modules && rm package-lock.json && npm install",
-    "generate-groups": "node utils/generate-groups-data.js > lib/data/groups.json",
-    "convert-excel": "node utils/convert-excel-to-json.js"
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "keywords": [
     "vtfk",
@@ -39,7 +37,6 @@
   "license": "MIT",
   "devDependencies": {
     "coveralls": "3.0.9",
-    "excel-as-json": "2.0.2",
     "standard": "14.3.1",
     "tap": "^14.10.6"
   }

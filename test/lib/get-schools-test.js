@@ -7,8 +7,8 @@ const yffOptions = {
 
 tap.equal(schools.length, getSchools().length, 'It returns all schools on empty')
 
-tap.equal(1, getSchools({ shortName: 'dalvs' }).length, 'It returns 1 school for dalvs')
+tap.equal(1, getSchools({ shortName: 'NOMV' }).length, 'It returns 1 school for NOMV')
 
-tap.equal(1, getSchools({ shortName: 'hlvs' }).length, 'It returns 1 school for hlvs')
+tap.equal(1, getSchools({ shortName: 'HOLV' }).length, 'It returns 1 school for HOLV')
 
-tap.equal(14, getSchools(yffOptions).length, 'It returns 14 schools for yff:true')
+tap.equal(10, getSchools(yffOptions).length, 'It returns 10 schools for yff:true')
