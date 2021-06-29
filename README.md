@@ -37,24 +37,7 @@ const options = {
 
 console.log(getSchools()) //=> All schools
 
-console.log(getSchools(options)) //=> Schools with shortName SKIVS
-```
-
-### Basic groups
-
-To list all basic groups from a school
-
-```JavaScript
-const { getGroups } = require('vtfk-schools-info')
-
-console.log(getGroups('SKIVS'))
-```
-To list all groups for all schools
-
-```JavaScript
-const { getGroups } = require('vtfk-schools-info')
-
-console.log(getGroups())
+console.log(getSchools(options)) //=> Schools with shortName SKIV
 ```
 
 ## License
