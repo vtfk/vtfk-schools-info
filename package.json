@@ -12,10 +12,8 @@
     "node": ">=10.16.3"
   },
   "scripts": {
-    "test": "standard && npm audit --production && tap --reporter=spec test/**/*.js",
-    "test-offline": "standard && tap --reporter=spec test/**/*.js",
-    "coverage": "tap test/**/*.js --coverage",
-    "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
+    "test": "standard && jest && npm audit --production",
+    "test-offline": "standard",
     "standard-fix": "standard --fix",
     "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
@@ -36,8 +34,18 @@
   "homepage": "https://github.com/vtfk/vtfk-schools-info/issues#readme",
   "license": "MIT",
   "devDependencies": {
-    "coveralls": "3.0.9",
-    "standard": "14.3.1",
-    "tap": "^14.10.6"
+    "jest": "27.5.1",
+    "standard": "14.3.1"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
+  "jest": {
+    "testMatch": [
+      "**/test/**/*test.[jt]s?(x)",
+      "**/?(*.)+.(spec|test).[jt]s?(x)"
+    ]
   }
 }
