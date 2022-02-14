@@ -18,7 +18,9 @@ Use an options object to specify your search.
 
 Possible keys:
 
+- **schoolId**
 - **organizationNumber**
+- **organizationNumber360**
 - **name**
 - **fullName**
 - **shortName**
@@ -26,6 +28,7 @@ Possible keys:
 - **accessGroup**
 - **phoneNumber**
 - **mail**
+- **yff**
 
 ```JavasScript
 
