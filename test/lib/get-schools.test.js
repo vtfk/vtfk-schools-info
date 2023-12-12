@@ -31,4 +31,14 @@ describe('It returns', () => {
     const result = getSchools(yffOptions)
     expect(result.length).toBe(10)
   })
+
+  test('Melsom for { schoolNumber: "39016 }', () => {
+    const result = getSchools({ schoolNumber: '39016' })
+    expect(result[0].name).toBe('Melsom vgs')
+  })
+
+  test('13 schools for { county: "Vestfold" }', () => {
+    const result = getSchools({ county: 'Vestfold' })
+    expect(result.length).toBe(13)
+  })
 })

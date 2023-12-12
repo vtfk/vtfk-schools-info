@@ -1,6 +1,8 @@
 [
   {
     "schoolId": "38020",
+    "schoolNumber": "40020",
+    "county": "Telemark",
     "organizationNumber": "974568098",
     "organizationNumber360": "974568098",
     "name": "Bamble vgs",
@@ -23,6 +25,8 @@
   },
   {
     "schoolId": "38008",
+    "schoolNumber": "40008",
+    "county": "Telemark",
     "organizationNumber": "974567997",
     "organizationNumber360": "974567997",
     "name": "Bø vgs",
@@ -45,6 +49,8 @@
   },
   {
     "schoolId": "38002",
+    "schoolNumber": "40002",
+    "county": "Telemark",
     "organizationNumber": "874568082",
     "organizationNumber360": "874568082",
     "name": "Rjukan vgs",
@@ -67,6 +73,8 @@
   },
   {
     "schoolId": "38022",
+    "schoolNumber": "40022",
+    "county": "Telemark",
     "organizationNumber": "974568004",
     "organizationNumber360": "974568004",
     "name": "Kragerø vgs",
@@ -89,6 +97,8 @@
   },
   {
     "schoolId": "38006",
+    "schoolNumber": "40006",
+    "county": "Telemark",
     "organizationNumber": "974568012",
     "organizationNumber360": "974568012",
     "name": "Notodden vgs",
@@ -111,6 +121,8 @@
   },
   {
     "schoolId": "38018",
+    "schoolNumber": "40018",
+    "county": "Telemark",
     "organizationNumber": "974568020",
     "organizationNumber360": "974568020",
     "name": "Porsgrunn vgs",
@@ -129,6 +141,8 @@
   },
   {
     "schoolId": "38012",
+    "schoolNumber": "40012",
+    "county": "Telemark",
     "organizationNumber": "974568039",
     "organizationNumber360": "974568039",
     "name": "Skien vgs",
@@ -147,6 +161,8 @@
   },
   {
     "schoolId": "38004",
+    "schoolNumber": "40004",
+    "county": "Telemark",
     "organizationNumber": "974568055",
     "organizationNumber360": "974568055",
     "name": "Vest-Telemark vgs",
@@ -169,6 +185,8 @@
   },
   {
     "schoolId": "38014",
+    "schoolNumber": "40014",
+    "county": "Telemark",
     "organizationNumber": "974568071",
     "organizationNumber360": "974568071",
     "name": "Hjalmar Johansen vgs",
@@ -187,6 +205,8 @@
   },
   {
     "schoolId": "38016",
+    "schoolNumber": "40016",
+    "county": "Telemark",
     "organizationNumber": "974568152",
     "organizationNumber360": "974568152",
     "name": "Skogmo vgs",
@@ -209,6 +229,8 @@
   },
   {
     "schoolId": "38010",
+    "schoolNumber": "40010",
+    "county": "Telemark",
     "organizationNumber": "974568187",
     "organizationNumber360": "974568187",
     "name": "Nome vgs.",
@@ -231,6 +253,8 @@
   },
   {
     "schoolId": "38032",
+    "schoolNumber": "39012",
+    "county": "Vestfold",
     "organizationNumber": "974575086",
     "organizationNumber360": "974575086",
     "name": "Færder vgs",
@@ -253,6 +277,8 @@
   },
   {
     "schoolId": "38042",
+    "schoolNumber": "39002",
+    "county": "Vestfold",
     "organizationNumber": "974575116",
     "organizationNumber360": "974575116",
     "name": "Sande vgs",
@@ -275,6 +301,8 @@
   },
   {
     "schoolId": "38050",
+    "schoolNumber": "39030",
+    "county": "Vestfold",
     "organizationNumber": "994309153",
     "organizationNumber360": "994309153",
     "name": "Kompetansebyggeren",
@@ -297,6 +325,8 @@
   },
   {
     "schoolId": "38034",
+    "schoolNumber": "39010",
+    "county": "Vestfold",
     "organizationNumber": "974574993",
     "organizationNumber360": "974574993",
     "name": "Greveskogen vgs",
@@ -319,6 +349,8 @@
   },
   {
     "schoolId": "38028",
+    "schoolNumber": "39016",
+    "county": "Vestfold",
     "organizationNumber": "974575051",
     "organizationNumber360": "974575051",
     "name": "Melsom vgs",
@@ -341,6 +373,8 @@
   },
   {
     "schoolId": "38060",
+    "schoolNumber": "39040",
+    "county": "Vestfold",
     "organizationNumber": "973754815",
     "organizationNumber360": "973754815",
     "name": "SMI-skolen",
@@ -363,6 +397,8 @@
   },
   {
     "schoolId": "38038",
+    "schoolNumber": "39006",
+    "county": "Vestfold",
     "organizationNumber": "874575232",
     "organizationNumber360": "874575232",
     "name": "Re vgs",
@@ -385,6 +421,8 @@
   },
   {
     "schoolId": "38036",
+    "schoolNumber": "39008",
+    "county": "Vestfold",
     "organizationNumber": "923261354",
     "organizationNumber360": "923261354",
     "name": "Horten vgs",
@@ -407,6 +445,8 @@
   },
   {
     "schoolId": "38026",
+    "schoolNumber": "39018",
+    "county": "Vestfold",
     "organizationNumber": "974575019",
     "organizationNumber360": "974575019",
     "name": "Sandefjord vgs",
@@ -429,6 +469,8 @@
   },
   {
     "schoolId": "38024",
+    "schoolNumber": "39020",
+    "county": "Vestfold",
     "organizationNumber": "974575027",
     "organizationNumber360": "974575027",
     "name": "Thor Heyerdahl vgs",
@@ -451,6 +493,8 @@
   },
   {
     "schoolId": "38040",
+    "schoolNumber": "39004",
+    "county": "Vestfold",
     "organizationNumber": "874575062",
     "organizationNumber360": "874575062",
     "name": "Holmestrand vgs",
@@ -473,6 +517,8 @@
   },
   {
     "schoolId": "38030",
+    "schoolNumber": "39014",
+    "county": "Vestfold",
     "organizationNumber": "974575000",
     "organizationNumber360": "974575000",
     "name": "Nøtterøy vgs",
@@ -495,6 +541,8 @@
   },
   {
     "schoolId": "70036",
+    "schoolNumber": "70036",
+    "county": "Telemark",
     "organizationNumber": "874568112",
     "organizationNumber360": "874568112",
     "name": "Fagskolen",
@@ -512,6 +560,54 @@
     "geocoded": {
       "lat": "59.13601",
       "lon": "9.67436"
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38131",
+    "schoolNumber": "40131",
+    "county": "Telemark",
+    "organizationNumber": null,
+    "organizationNumber360": null,
+    "name": "Telemark fylkeskommune privatisteksamen",
+    "fullName": "Telemark fylkeskommune privatisteksamen",
+    "shortName": null,
+    "officialName": "Telemark fylkeskommune privatisteksamen",
+    "accessGroup": null,
+    "phoneNumber": null,
+    "mail": null,
+    "address": {
+      "street": null,
+      "zip": null,
+      "place": null
+    },
+    "geocoded": {
+      "lat": null,
+      "lon": null
+    },
+    "yff": false
+  },
+  {
+    "schoolId": "38132",
+    "schoolNumber": "39132",
+    "county": "Vestfold",
+    "organizationNumber": null,
+    "organizationNumber360": null,
+    "name": "Vestfold fylkeskommune privatisteksamen",
+    "fullName": "Vestfold fylkeskommune privatisteksamen",
+    "shortName": null,
+    "officialName": "Vestfold fylkeskommune privatisteksamen",
+    "accessGroup": null,
+    "phoneNumber": null,
+    "mail": null,
+    "address": {
+      "street": null,
+      "zip": null,
+      "place": null
+    },
+    "geocoded": {
+      "lat": null,
+      "lon": null
     },
     "yff": false
   }
