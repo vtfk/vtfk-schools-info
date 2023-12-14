@@ -19,6 +19,8 @@ Use an options object to specify your search.
 Possible keys:
 
 - **schoolId**
+- **schoolNumber** (new 2024)
+- **county** (new 2024, "Telemark" or "Vestfold")
 - **organizationNumber**
 - **organizationNumber360**
 - **name**
