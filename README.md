@@ -21,6 +21,7 @@ Possible keys:
 - **schoolId**
 - **schoolNumber** (new 2024)
 - **county** (new 2024, "Telemark" or "Vestfold")
+- **countyNumber** (new 2024, "39" or "40")
 - **organizationNumber**
 - **organizationNumber360**
 - **name**
