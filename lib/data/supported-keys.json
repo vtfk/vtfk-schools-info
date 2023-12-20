@@ -2,6 +2,7 @@
   "schoolId",
   "schoolNumber",
   "county",
+  "countyNumber",
   "organizationNumber",
   "organizationNumber360",
   "name",

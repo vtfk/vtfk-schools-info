@@ -41,4 +41,10 @@ describe('It returns', () => {
     const result = getSchools({ county: 'Vestfold' })
     expect(result.length).toBe(13)
   })
+
+  test('13 schools for { countyNumber: "39" } and countyNumber is "39"', () => {
+    const result = getSchools({ countyNumber: '39' })
+    expect(result.length).toBe(13)
+    expect(result[0].countyNumber).toBe('39')
+  })
 })
