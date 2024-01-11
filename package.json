@@ -1,7 +1,7 @@
 {
   "name": "vtfk-schools-info",
   "description": "Get information regarding our schools",
-  "version": "3.4.0",
+  "version": "3.4.1",
   "author": {
     "name": "Mats Andreassen",
     "email": "mats.andreassen@vtfk.no",
